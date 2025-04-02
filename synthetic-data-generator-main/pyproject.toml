@@ -62,7 +62,7 @@ content-type = "text/markdown"
 text = "Apache Software License 2.0"
 
 [project.urls]
-Source = "https://github.com/hitsz-ids/synthetic-data-generator"
+Source = "https://github.com/XTASEEEE/SDG.git"
 
 [tool.check-manifest]
 ignore = [".*"]
